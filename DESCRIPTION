@@ -1,7 +1,7 @@
 Package: ADAM
 Type: Package
 Title: ADAM: Activity and Diversity Analysis Module
-Version: 1.15.1
+Version: 1.16.0
 Date: 2023-04-10
 Authors@R:
     c(person(given = "André Luiz",
